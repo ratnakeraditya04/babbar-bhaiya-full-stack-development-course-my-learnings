@@ -1,0 +1,25 @@
+Web - system in which (Docs)resources Interconnected - Accessed by Internet.
+
+Development - Creating and Building. 
+Website - Static Content. Content which does not get changed over time. read only format. 
+
+Web Application - Dynamic in nature. User can Interact in application. 
+
+Our Use case is dependent on whether we are building - Website or Web Application.  
+
+
+
+Web Application - Consists of many layers. 
+
+FrontEnd/UI of the Web Application. Appearance, Format. HTML/CSS/JS/React - FrontEnd Engineer 
+BackEnd - Logic and functionalities of the application. NodeJs
+Database Layer - Data Storage - NoSQL and SQL Database. MongoDB 
+
+
+A person who knows - all three layers - Full Stack Web Developer. 
+
+MERN STACK - MongoDB, ExpressJS, ReactJS, NodeJS.
+
+
+NOTE - Always add your touch in the application that will be created by the instructor. 
+Practice, Practice and Practice. 

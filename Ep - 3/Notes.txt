@@ -1,0 +1,45 @@
+How Internet Works ? 
+Inter means for Interconnected and net means network. 
+Interconnected Networks.
+
+
+Client Server Model - Requests and Response - GET, PUT , POST , DELETE and many other kinds of requests. 
+Address NEEDED to interact. 
+
+ISP - Internet Service Provider - Using which you access internet. 
+Protocol - Set of Rules for communication. 
+SMTP - Simple Mail Transfer Protocol - Set of Rules to Send Mail b/w users.  
+Packet - Network Layer. 
+Application                                                                 Application Layer
+TCP    - Port No. Required                                                                      TCP
+IP     - Packets - IP Address.                                                                    IP 
+Hardware Layer (Physical Layer) -----------> Internet --------------------> Hardware
+Protocol Stack 
+
+Router is a device through which you can connect multiple networks. 
+
+(Open System Interconnection) OSI Model - 7 Layer - PDNTSPA MneMonic to Remember. 
+
+In this model, we basically saw how internet works, here in this example when a user tries to access a particular website. 
+Then following are the sequence of steps - 
+
+First, DNS will be involved to go find out the IP address of that particular website. 
+Second, That IP Address will go to ISP at different levels to find out whiche server to contact. First Local then Regional then National then Global. 
+Third, it will go to a series of routers to reach the Server which is its destination. 
+
+Also, to find the IP Address of a particular website - Use Command nslookup in cmd to get the address.
+IPv6 was needed over IPv4 because to fulfill the scarcity of addresses.  
+
+
+Modem is used for conversion of data type from digital to analog and vice versa where as router is used for the secured data connection to many devices. Nowadays in our home wifi is the combination of router+modem.
+
+
+Switch : send data to  computer connected in network able to communicate with each other , it wil send msg to desired destination insted of sending each devices.
+
+Hub: hub send data to each computer or devices.  When data comes it will broadcast to each devices it doesn't matter what exact destination to send msg
+
+Router: 
+Router connect different network with each other so we can able to communication device within another network
+
+Modem
+It use to modularization and demonization of signal digital to analog vice versa

@@ -1,0 +1,79 @@
+Emmet - Plug In - VS Code - By Default Installed
+Use of Shortcuts to genarate full code. 
+ex - p>p>p 
+ul>li*3 
+
+
+Use of > actually means the tag act as parent - child. 
+and
+Use of + actually means that the tag act as siblings. 
+
+ex - p>p>p>p
+and p+p+p+p  
+
+See and implement the behaviour of both. 
+
+
+p{this is  my first parafraph. } - Used to insert content inside the tags. 
+
+id  - An attribute that uniquely identifies the element. 
+class - parent level entity
+
+Using - p#para1 - to create a paragraph tag with para1 as its id. 
+
+
+Now using . helps to create a tag witha class attribute. 
+
+p.para - Gives the Output - <p class="para"></p>
+
+
+article.dog.billi.cat.lion - Can create a tag with multiple class. 
+
+
+Igf an element nested way - ">" Use this Symbol 
+                             ol>li*4
+To add multiple tags that are not nested - "+" Symbol. 
+
+
+DIV TAG 
+
+Division Tag. 
+Generic Container. 
+Wrapping/Container Tag. 
+
+
+It helps in division of code segments. 
+
+
+Block and Inline Elements - 
+
+Block Element - These are the elements which are created in next line. They, by default , acquire all the space from left to right. Ex - Div, paragraph tag. 
+Inlinem Element - These are the lements that not come in next line. By default they do not acquire all the spce from left to right. They actually take the space in accordance to the content. Ex - Span Tag  
+
+To check whether a tag is inline or block, make two adjacent tags and style them to add background color AND check whether they come to same line or in different line. 
+
+
+Using display attribute we can - change it from inline or to block . 
+
+
+List  - AGAIN DISCUSSION
+
+ul>(li>a)*7
+
+
+DIFFERENT VARIATIONS OF ANCHOR TAG - 
+
+<a href="">Click HERE!</a> - hyperlink
+<a href="mailto:ratnakeraditya04@gmail.com">Mail mE</a> - mailing
+<a href="tel:985724895728975">Call me. </a> - calling.
+
+
+
+
+We can create unordered list without any bullets using type attributes with value none .
+<ul type="none">  </ul>
+We can use style attribute with display : inline; for horizontal list with every list items.
+<li style=" display : inline; ">  </li>
+
+ 
+

@@ -1,0 +1,25 @@
+Network - Many Resources - Interconnected - System as a Whole.
+LAN - MAN - WAN  - Due to Difference in Scale. 
+Internet - Global System - Network of Networks - Super Entitiy. 
+WWW - Interconnected Documents and Resources - SubSet of Internet. WWW is one of the service provided by Internet. 
+IP Address - Address of Machine - High Level / Skimming through just above. 
+
+
+Browser - Tool to Access Doc, Reources , Website, Webpage. 
+Ex - Google Chrome, Safari, Opera, Mozilla Firefox. 
+Can be used as to request sth and render sth. 
+
+
+Browser Engine - Underlying Brain to avail these services. 
+
+
+
+Client/Server Model - Request -> After Some kind of Processing -> Response. 
+
+Client - Laptop , Mobile , PC. Can be CLI.
+Server - Can Be Database Server, File Server, Application Server,  EMail Server. 
+
+Requests - GET , POST , PUT, DELETE. 
+
+
+Domain Names convert into IP Address - Done By DNS Server - Domain Name Resolution. 

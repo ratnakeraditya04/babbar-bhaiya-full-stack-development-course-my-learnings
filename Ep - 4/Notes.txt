@@ -1,0 +1,19 @@
+HTML - Hyper Text Markup Language 
+
+Used to define Structure in a website. 
+Labelling in an HTML. 
+
+
+CSS - Styling Related Work. 
+JS - Brain and Logic of website. 
+
+HTML - Language but not a programming Language. 
+Labelling of Content on Webpage. Skeleton of Website. 
+
+Appearance - CSS. 
+
+Resources to Follow - 
+
+Documentation - MDN - HTML, CSS, JS. 
+w3schools - Another one.  
+

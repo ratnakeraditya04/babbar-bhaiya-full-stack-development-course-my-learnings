@@ -1,0 +1,21 @@
+Tables in HTML - 
+
+Arrangement of Data in the form of rows and Columns. 
+Rows
+Columns 
+Cell 
+
+
+Tags in HTML - 
+table 
+thead - heading content in table
+tbody - actual content of table.
+tfoot - summary of Data
+
+tr - row of table
+td - to create cell of Data
+th - table heading
+
+How attributes rowspan and Colspan attributes are equal. 
+rowspan - Downward Arrow
+colspan - Left Right 

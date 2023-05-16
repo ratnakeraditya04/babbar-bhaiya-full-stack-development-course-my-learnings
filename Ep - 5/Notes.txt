@@ -1,0 +1,79 @@
+Tags 
+
+What is Tag? - A Markup Entity. 
+Tag Provides semantics, meaning, structure and format our text/data. 
+
+
+Semantics Tags - h1 to h6, p , a, <table> , <img> 
+Structure Tags - <html>, head , body , header, footer , aside, article,  section, nav
+Formatting - b , i , u , <strong>, <em>, <sup> , <sub>, <code> 
+
+In h1 to h6 tag, main difference does not lie in the fact that the size and the text is much less. 
+Main difference is in the (semantics) preference order in which they will be used. 
+
+h7 and h8 and further tags can be used as paragraph tag. h7 and h8 are not heading tags but it will act as paragraph tag. 
+HYPERLINK - Way to go from one document to another. 
+There are three lists - ordered list , unordered list and description list. 
+Using Emmet Extension we can very much reduce the time taken to write the code in html
+For Example - 
+
+Writing - ol>li*3
+Means - Create an ordered list having 3 list items.
+
+Just like the there was a difference in the significance of h1 to h6 tags. Similarly, there exists a significant difference in Unordered List and Ordered List. 
+
+In Ordered List, the order or sequence of steps of sth would be meticulously followed. 
+But in Unordered list, Order followed is a random order. 
+
+Another Example - Emmet Extension is 
+table>(tr>td*3)*3
+
+
+Properties of a tag are Attributes.
+
+
+Style Attribute can be used to do styling. 
+For Ex - <h1 style="background-color: aqua"> 
+
+
+Mentioning lorem and then mention no of words you need the random data.Pressing enter you will see the text genarated by it. The no. of words you desired will be viosible. 
+
+Genarally, we avoid most of the formatting by tags as we have CSS for this purpose.  
+
+
+Formatting Tags -------------> 
+Using strong instead of b will ensure that our content inside string will be emphasized when converted to speech. 
+
+<b> - bold 
+<i> italic
+<u> underline
+<s> Striking the text is the purpose for which it is used. 
+<strong> - Strong tag - Bold 
+<em> Same purpose as strong. 
+<sup> Superscript - Tag 
+<sub> Sub Script Tag. 
+<br/> Break - Try to use Br with a slash tag. 
+
+<pre> Text written under this tafg will show as it is written inside the text editor. 
+
+Opening Tag + Closing Tag + Content = Element
+
+Structural Tags -----------> 
+
+<html>
+<head>
+<body> 
+
+<header>
+<footer>
+<main> 
+<nav> - Navigation Links on top of page.  
+<aside> This tag - Used for showing Sidebars. 
+<section>
+<article>
+
+All data outside - header, footer and aside is genarally stored in main tag. 
+
+
+Difference Between - Article and Section Tag - H/W.
+
