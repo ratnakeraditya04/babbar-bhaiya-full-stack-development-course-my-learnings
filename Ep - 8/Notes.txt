@@ -1,0 +1,77 @@
+HTML Forms 
+
+What is a Form - A type of structure - to collect the data input. 
+Purpose to interact with Users. 
+
+Tags - 
+
+<form> Tag - To create HTML Forms for user input. 
+<input> tag - can display in many forms. Text - Radio Buttons - CheckBoxes and many more
+<label> Tag - To attach the text attached or screen reader. 
+
+Importnat Point - Label's for attribute must be completed and must be equal with the value of input's id attribute.
+
+Input Tag's Attributes - type - Enter the type of data. 
+
+type -  text - default attribute.
+        radiobutton
+        checkbox 
+        name
+        date and many more. 
+
+        value - attribute - this attribute actually sets the pre - existing value of that input field. 
+
+id - to call them in future. 
+name attribute. 
+
+
+Rule - label - for attribute value = input's id attribute value. 
+
+
+type = submit - Creates the Submit button of whole form to send the data to the server.
+
+
+In many of the websites, there is a text such as - enter your password or enter email - abc@gmail.com  and many more. 
+These are actually called as Placeholder. 
+To add these text with the help of placeholder attribute in input tag. 
+
+
+
+
+Form  - Elements - 
+
+Till now we have learnt about Input and label. There are many more such as - 
+
+select -> To Create dropdown menus. 
+option -> To create options in the dropdown menus. 
+
+buttons 
+
+textarea - to allow the multiline input. 
+
+fieldset - To group much more Elements. - Grouping of elements.
+legend - To insert caption for a fieldset. 
+
+
+<input> - Type - textfield
+                button 
+                radio 
+                checkbox
+                file-select
+                image
+                password field
+                date
+
+
+We can select Multiple Options using MULTIPLE attribute in select type.
+but while selecting the multiple attribute we should press Ctrl in Windows And Cmd for Mac.
+
+multiple is the attribute used to select multiple options in the list
+
+
+
+
+
+
+
+
